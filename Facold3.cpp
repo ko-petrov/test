@@ -20,7 +20,7 @@ vector<int> toFact1(int x, int y) {
 	}
 	return v;
 }
-// хаха я тут
+// хаха я тут не ну это просто лоооол
 vector<int> toFact(int x) {
 	return toFact1(x, 2);
 }
